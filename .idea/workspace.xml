@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ef4e2ca-90cc-4be1-9551-041ee15de8dd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/java/com/senai/apivsconnect/ApivsconnectApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/java/com/senai/apivsconnect/ServletInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/java/com/senai/apivsconnect/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/java/com/senai/apivsconnect/config/SecurityFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/java/com/senai/apivsconnect/controllers/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/java/com/senai/apivsconnect/controllers/ServicoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/java/com/senai/apivsconnect/controllers/UsuarioController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/java/com/senai/apivsconnect/dtos/LoginDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/java/com/senai/apivsconnect/dtos/ServicoDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/java/com/senai/apivsconnect/dtos/TokenDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/java/com/senai/apivsconnect/dtos/UsuarioDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/java/com/senai/apivsconnect/models/ServicoModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/java/com/senai/apivsconnect/models/TipoModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/java/com/senai/apivsconnect/models/UsuarioModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/java/com/senai/apivsconnect/repositories/ServicoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/java/com/senai/apivsconnect/repositories/UsuarioRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/java/com/senai/apivsconnect/services/AuthService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/java/com/senai/apivsconnect/services/FileUploadService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/java/com/senai/apivsconnect/services/TokenService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/resources/static/img/09112023192936.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/main/resources/static/img/27102023214257.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apivsconnect-main/src/test/java/com/senai/apivsconnect/ApivsconnectApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2Y0OCzJDx0sRcW7pKbtN1sQpAmj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ef4e2ca-90cc-4be1-9551-041ee15de8dd" name="Changes" comment="" />
+      <created>1699658908339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699658908339</updated>
+    </task>
+    <servers />
+  </component>
+</project>
