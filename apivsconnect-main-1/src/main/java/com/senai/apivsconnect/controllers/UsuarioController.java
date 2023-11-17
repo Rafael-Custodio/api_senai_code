@@ -47,6 +47,10 @@ public class UsuarioController {
         return ResponseEntity.status(HttpStatus.OK).body(usuarioBuscado.get());
     }
 
+
+
+
+    
     @PostMapping(consumes = { MediaType.MULTIPART_FORM_DATA_VALUE })
     @Operation(summary = "Método para criar um usuário", method = "POST")
     @ApiResponses(value = {
