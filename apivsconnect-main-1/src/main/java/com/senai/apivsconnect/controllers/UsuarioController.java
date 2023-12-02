@@ -50,7 +50,7 @@ public class UsuarioController {
 
 
 
-    
+
     @PostMapping(consumes = { MediaType.MULTIPART_FORM_DATA_VALUE })
     @Operation(summary = "Método para criar um usuário", method = "POST")
     @ApiResponses(value = {
